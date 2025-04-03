@@ -1,4 +1,4 @@
-# Oasis-Infobyte-Intership-Tasks
+# Python-Intership-Oasis-Infobyte-Tasks
 ##  My 4-week Python programming internship is a transformative journey
 
 
